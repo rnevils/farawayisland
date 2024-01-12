@@ -1,0 +1,12 @@
+Blissey (F) @ Dragon Fang  
+Ability: Natural Cure  
+EVs: 252 Atk / 252 SpA / 4 Spe  
+- Counter  
+- Body Slam  
+
+Groudon  
+Ability: Drought  
+
+Charizard  
+Ability: Blaze  
+

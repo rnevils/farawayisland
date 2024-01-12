@@ -1,0 +1,89 @@
+(Metagross) (Dusclops) (F) @ Leftovers  
+Ability: Pressure  
+Level: 94  
+Shiny: Yes  
+Happiness: 248  
+EVs: 252 HP / 180 Def / 68 SpD  
+Calm Nature  
+- Icy Wind  
+- Will-O-Wisp  
+- Taunt  
+- Hidden Power [Bug]  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Explosion  
+- Earthquake  
+- Meteor Mash  
+- Protect  
+
+(s9tupid 9  nickname (Snorlax)  
+Ability: Thick Fat  
+EVs: 4 HP / 252 Atk / 180 Def / 72 SpD  
+Adamant Nature  
+- Self-Destruct  
+- Return  
+- Earthquake  
+- Shadow Ball  
+
+Latias (F) @ Lum Berry  
+Ability: Levitate  
+EVs: 228 HP / 252 SpA / 28 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Thunder Wave  
+- Ice Beam  
+- Protect  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt  
+- Protect  
+
+Tauros (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Ghost]  
+- Iron Tail  
+
+(M) (Tauros) (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Return  
+- Earthquake  
+- Iron Tail  
+- Hidden Power [Ghost]  
+
+(Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 148 HP / 252 SpA / 108 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Detect  
+- Hidden Power [Ice]  
+- Thunder Wave  
+
+Dusclops (F) @ Leftovers  
+Ability: Pressure  
+Level: 94  
+Shiny: Yes  
+Happiness: 248  
+EVs: 252 HP / 180 Def / 68 SpD  
+Calm Nature  
+- Icy Wind  
+- Will-O-Wisp  
+- Taunt  
+- Hidden Power [Bug] 

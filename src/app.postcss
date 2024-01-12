@@ -1,0 +1,38 @@
+:root {
+  --theme-rounded-base: 1px;
+  --theme-rounded-container: 1px;
+  --theme-border-base: 1px;
+  --type-Bug: #a6b91a;
+  --type-Dark: #705746;
+  --type-Dragon: #6f35fc;
+  --type-Electric: #f7d02c;
+  --type-Fighting: #c22e28;
+  --type-Fire: #ee8130;
+  --type-Flying: #a98ff3;
+  --type-Ghost: #735797;
+  --type-Grass: #7ac74c;
+  --type-Ground: #e2bf65;
+  --type-Ice: #96d9d6;
+  --type-Normal: #a8a77a;
+  --type-Poison: #a33ea1;
+  --type-Psychic: #f95587;
+  --type-Rock: #b6a136;
+  --type-Steel: #b7b7ce;
+  --type-Water: #6390f0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+html,
+body {
+  @apply h-full overflow-hidden;
+}
+
+table {
+  text-indent: 0; /* 1 */
+  border-color: inherit; /* 2 */
+  border-collapse: collapse; /* 3 */
+}

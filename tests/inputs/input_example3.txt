@@ -1,0 +1,61 @@
+@@ @  @@@ (Kingdra) (F) @ Leftovers  
+Ability: Swift Swim  
+Level: 97  
+Shiny: Yes  
+Happiness: 2  
+EVs: 20 HP / 252 SpA  
+Modest Nature  
+IVs: 29 HP / 0 Atk / 29 SpA / 29 SpD  
+- Rain Dance  
+- Hydro Pump  
+- Ice Beam  
+
+( ()@@;k; (Tauros) (Deoxys-Defense)  
+Ability: Pressure  
+Level: 34  
+Shiny: Yes  
+Happiness: 1  
+EVs: 1 HP  
+Bold Nature  
+IVs: 0 Atk / 30 Def / 30 SpA / 29 SpD / 29 Spe  
+- Icy Wind  
+- Thunder Wave  
+
+Raikou  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Protect  
+- Calm Mind  
+- Crunch  
+
+Latias (F) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 160 Def / 92 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Dragon Claw  
+- Protect  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Meteor Mash  
+- Explosion  
+- Shadow Ball  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Rock]  
+- Protect  
+- Dragon Dance  
+

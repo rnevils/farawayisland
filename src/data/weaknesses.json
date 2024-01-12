@@ -1,0 +1,1947 @@
+{
+  "Bulbasaur": {
+    "Number": 1,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Ivysaur": {
+    "Number": 2,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Venusaur": {
+    "Number": 3,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Charmander": {
+    "Number": 4,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Charmeleon": {
+    "Number": 5,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Charizard": {
+    "Number": 6,
+    "Matchups": [1, 0.5, 2, 2, 0.25, 1, 0.5, 1, 0, 1, 1, 0.25, 4, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "electric", "rock"]
+  },
+  "Squirtle": {
+    "Number": 7,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Wartortle": {
+    "Number": 8,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Blastoise": {
+    "Number": 9,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Caterpie": {
+    "Number": 10,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Metapod": {
+    "Number": 11,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Butterfree": {
+    "Number": 12,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Weedle": {
+    "Number": 13,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Kakuna": {
+    "Number": 14,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Beedrill": {
+    "Number": 15,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Pidgey": {
+    "Number": 16,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Pidgeotto": {
+    "Number": 17,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Pidgeot": {
+    "Number": 18,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Rattata": {
+    "Number": 19,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Raticate": {
+    "Number": 20,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Spearow": {
+    "Number": 21,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Fearow": {
+    "Number": 22,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Ekans": {
+    "Number": 23,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Arbok": {
+    "Number": 24,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Pikachu": {
+    "Number": 25,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Raichu": {
+    "Number": 26,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Sandshrew": {
+    "Number": 27,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Sandslash": {
+    "Number": 28,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Nidoran-F": {
+    "Number": 29,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Nidorina": {
+    "Number": 30,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Nidoqueen": {
+    "Number": 31,
+    "Matchups": [1, 1, 2, 0, 1, 2, 0.5, 0.25, 2, 1, 2, 0.5, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "ice", "ground", "psychic"]
+  },
+  "Nidoran-M": {
+    "Number": 32,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Nidorino": {
+    "Number": 33,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Nidoking": {
+    "Number": 34,
+    "Matchups": [1, 1, 2, 0, 1, 2, 0.5, 0.25, 2, 1, 2, 0.5, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "ice", "ground", "psychic"]
+  },
+  "Clefairy": {
+    "Number": 35,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Clefable": {
+    "Number": 36,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Vulpix": {
+    "Number": 37,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Ninetales": {
+    "Number": 38,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Jigglypuff": {
+    "Number": 39,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Wigglytuff": {
+    "Number": 40,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Zubat": {
+    "Number": 41,
+    "Matchups": [1, 1, 1, 2, 0.25, 2, 0.25, 0.5, 0, 1, 2, 0.25, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "psychic", "rock"]
+  },
+  "Golbat": {
+    "Number": 42,
+    "Matchups": [1, 1, 1, 2, 0.25, 2, 0.25, 0.5, 0, 1, 2, 0.25, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "psychic", "rock"]
+  },
+  "Oddish": {
+    "Number": 43,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Gloom": {
+    "Number": 44,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Vileplume": {
+    "Number": 45,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Paras": {
+    "Number": 46,
+    "Matchups": [1, 4, 0.5, 0.5, 0.25, 2, 0.5, 2, 0.25, 4, 1, 2, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug", "rock"]
+  },
+  "Parasect": {
+    "Number": 47,
+    "Matchups": [1, 4, 0.5, 0.5, 0.25, 2, 0.5, 2, 0.25, 4, 1, 2, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug", "rock"]
+  },
+  "Venonat": {
+    "Number": 48,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Venomoth": {
+    "Number": 49,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Diglett": {
+    "Number": 50,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Dugtrio": {
+    "Number": 51,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Meowth": {
+    "Number": 52,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Persian": {
+    "Number": 53,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Psyduck": {
+    "Number": 54,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Golduck": {
+    "Number": 55,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Mankey": {
+    "Number": 56,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Primeape": {
+    "Number": 57,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Growlithe": {
+    "Number": 58,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Arcanine": {
+    "Number": 59,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Poliwag": {
+    "Number": 60,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Poliwhirl": {
+    "Number": 61,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Poliwrath": {
+    "Number": 62,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 0.5],
+    "WeaknessesNames": ["electric", "grass", "flying", "psychic"]
+  },
+  "Abra": {
+    "Number": 63,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Kadabra": {
+    "Number": 64,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Alakazam": {
+    "Number": 65,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Machop": {
+    "Number": 66,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Machoke": {
+    "Number": 67,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Machamp": {
+    "Number": 68,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Bellsprout": {
+    "Number": 69,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Weepinbell": {
+    "Number": 70,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Victreebel": {
+    "Number": 71,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Tentacool": {
+    "Number": 72,
+    "Matchups": [1, 0.5, 0.5, 2, 1, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "ground", "psychic"]
+  },
+  "Tentacruel": {
+    "Number": 73,
+    "Matchups": [1, 0.5, 0.5, 2, 1, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "ground", "psychic"]
+  },
+  "Geodude": {
+    "Number": 74,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Graveler": {
+    "Number": 75,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Golem": {
+    "Number": 76,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Ponyta": {
+    "Number": 77,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Rapidash": {
+    "Number": 78,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Slowpoke": {
+    "Number": 79,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 0.5],
+    "WeaknessesNames": ["electric", "grass", "bug", "ghost", "dark"]
+  },
+  "Slowbro": {
+    "Number": 80,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 0.5],
+    "WeaknessesNames": ["electric", "grass", "bug", "ghost", "dark"]
+  },
+  "Magnemite": {
+    "Number": 81,
+    "Matchups": [0.5, 2, 1, 0.5, 0.5, 0.5, 2, 0, 4, 0.25, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.25],
+    "WeaknessesNames": ["fire", "fighting", "ground"]
+  },
+  "Magneton": {
+    "Number": 82,
+    "Matchups": [0.5, 2, 1, 0.5, 0.5, 0.5, 2, 0, 4, 0.25, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.25],
+    "WeaknessesNames": ["fire", "fighting", "ground"]
+  },
+  "Farfetch'd": {
+    "Number": 83,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Doduo": {
+    "Number": 84,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Dodrio": {
+    "Number": 85,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Seel": {
+    "Number": 86,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Dewgong": {
+    "Number": 87,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Grimer": {
+    "Number": 88,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Muk": {
+    "Number": 89,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Shellder": {
+    "Number": 90,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Cloyster": {
+    "Number": 91,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Gastly": {
+    "Number": 92,
+    "Matchups": [0, 1, 1, 1, 0.5, 1, 0, 0.25, 2, 1, 2, 0.25, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ground", "psychic", "ghost", "dark"]
+  },
+  "Haunter": {
+    "Number": 93,
+    "Matchups": [0, 1, 1, 1, 0.5, 1, 0, 0.25, 0, 1, 2, 0.25, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["psychic", "ghost", "dark"]
+  },
+  "Gengar": {
+    "Number": 94,
+    "Matchups": [0, 1, 1, 1, 0.5, 1, 0, 0.25, 0, 1, 2, 0.25, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["psychic", "ghost", "dark"]
+  },
+  "Onix": {
+    "Number": 95,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Drowzee": {
+    "Number": 96,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Hypno": {
+    "Number": 97,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Krabby": {
+    "Number": 98,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Kingler": {
+    "Number": 99,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Voltorb": {
+    "Number": 100,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Electrode": {
+    "Number": 101,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Exeggcute": {
+    "Number": 102,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 0.5, 2, 0.5, 2, 0.5, 4, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug", "ghost", "dark"]
+  },
+  "Exeggutor": {
+    "Number": 103,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 0.5, 2, 0.5, 2, 0.5, 4, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug", "ghost", "dark"]
+  },
+  "Cubone": {
+    "Number": 104,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Marowak": {
+    "Number": 105,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Hitmonlee": {
+    "Number": 106,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Hitmonchan": {
+    "Number": 107,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Lickitung": {
+    "Number": 108,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Koffing": {
+    "Number": 109,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Weezing": {
+    "Number": 110,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Rhyhorn": {
+    "Number": 111,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Rhydon": {
+    "Number": 112,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Chansey": {
+    "Number": 113,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Tangela": {
+    "Number": 114,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Kangaskhan": {
+    "Number": 115,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Horsea": {
+    "Number": 116,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Seadra": {
+    "Number": 117,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Goldeen": {
+    "Number": 118,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Seaking": {
+    "Number": 119,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Staryu": {
+    "Number": 120,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Starmie": {
+    "Number": 121,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 0.5],
+    "WeaknessesNames": ["electric", "grass", "bug", "ghost", "dark"]
+  },
+  "Mr. Mime": {
+    "Number": 122,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Scyther": {
+    "Number": 123,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Jynx": {
+    "Number": 124,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 2, 2, 2, 1, 2, 2],
+    "WeaknessesNames": ["fire", "bug", "rock", "ghost", "dark", "steel"]
+  },
+  "Electabuzz": {
+    "Number": 125,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Magmar": {
+    "Number": 126,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Pinsir": {
+    "Number": 127,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Tauros": {
+    "Number": 128,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Magikarp": {
+    "Number": 129,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Gyarados": {
+    "Number": 130,
+    "Matchups": [1, 0.5, 0.5, 4, 1, 1, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "rock"]
+  },
+  "Lapras": {
+    "Number": 131,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Ditto": {
+    "Number": 132,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Eevee": {
+    "Number": 133,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Vaporeon": {
+    "Number": 134,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Jolteon": {
+    "Number": 135,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Flareon": {
+    "Number": 136,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Porygon": {
+    "Number": 137,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Omanyte": {
+    "Number": 138,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Omastar": {
+    "Number": 139,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Kabuto": {
+    "Number": 140,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Kabutops": {
+    "Number": 141,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Aerodactyl": {
+    "Number": 142,
+    "Matchups": [0.5, 0.5, 2, 2, 1, 2, 1, 0.5, 0, 0.5, 1, 0.5, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "electric", "ice", "rock", "steel"]
+  },
+  "Snorlax": {
+    "Number": 143,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Articuno": {
+    "Number": 144,
+    "Matchups": [1, 2, 1, 2, 0.5, 1, 1, 1, 0, 1, 1, 0.5, 4, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "electric", "rock", "steel"]
+  },
+  "Zapdos": {
+    "Number": 145,
+    "Matchups": [1, 1, 1, 1, 0.5, 2, 0.5, 1, 0, 0.5, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ice", "rock"]
+  },
+  "Moltres": {
+    "Number": 146,
+    "Matchups": [1, 0.5, 2, 2, 0.25, 1, 0.5, 1, 0, 1, 1, 0.25, 4, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "electric", "rock"]
+  },
+  "Dratini": {
+    "Number": 147,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Dragonair": {
+    "Number": 148,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Dragonite": {
+    "Number": 149,
+    "Matchups": [1, 0.5, 0.5, 1, 0.25, 4, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "rock", "dragon"]
+  },
+  "Mewtwo": {
+    "Number": 150,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Mew": {
+    "Number": 151,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Chikorita": {
+    "Number": 152,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Bayleef": {
+    "Number": 153,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Meganium": {
+    "Number": 154,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Cyndaquil": {
+    "Number": 155,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Quilava": {
+    "Number": 156,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Typhlosion": {
+    "Number": 157,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Totodile": {
+    "Number": 158,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Croconaw": {
+    "Number": 159,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Feraligatr": {
+    "Number": 160,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Sentret": {
+    "Number": 161,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Furret": {
+    "Number": 162,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Hoothoot": {
+    "Number": 163,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Noctowl": {
+    "Number": 164,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Ledyba": {
+    "Number": 165,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Ledian": {
+    "Number": 166,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Spinarak": {
+    "Number": 167,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Ariados": {
+    "Number": 168,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Crobat": {
+    "Number": 169,
+    "Matchups": [1, 1, 1, 2, 0.25, 2, 0.25, 0.5, 0, 1, 2, 0.25, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "psychic", "rock"]
+  },
+  "Chinchou": {
+    "Number": 170,
+    "Matchups": [1, 0.5, 0.5, 1, 2, 0.5, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.25],
+    "WeaknessesNames": ["grass", "ground"]
+  },
+  "Lanturn": {
+    "Number": 171,
+    "Matchups": [1, 0.5, 0.5, 1, 2, 0.5, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.25],
+    "WeaknessesNames": ["grass", "ground"]
+  },
+  "Pichu": {
+    "Number": 172,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Cleffa": {
+    "Number": 173,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Igglybuff": {
+    "Number": 174,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Togepi": {
+    "Number": 175,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Togetic": {
+    "Number": 176,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Natu": {
+    "Number": 177,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 0.25, 1, 0, 1, 0.5, 1, 2, 2, 1, 2, 1],
+    "WeaknessesNames": ["electric", "ice", "rock", "ghost", "dark"]
+  },
+  "Xatu": {
+    "Number": 178,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 0.25, 1, 0, 1, 0.5, 1, 2, 2, 1, 2, 1],
+    "WeaknessesNames": ["electric", "ice", "rock", "ghost", "dark"]
+  },
+  "Mareep": {
+    "Number": 179,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Flaaffy": {
+    "Number": 180,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Ampharos": {
+    "Number": 181,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Bellossom": {
+    "Number": 182,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Marill": {
+    "Number": 183,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Azumarill": {
+    "Number": 184,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Sudowoodo": {
+    "Number": 185,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "fighting", "ground", "steel"]
+  },
+  "Politoed": {
+    "Number": 186,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Hoppip": {
+    "Number": 187,
+    "Matchups": [1, 2, 0.5, 1, 0.25, 4, 0.5, 2, 0, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "rock"]
+  },
+  "Skiploom": {
+    "Number": 188,
+    "Matchups": [1, 2, 0.5, 1, 0.25, 4, 0.5, 2, 0, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "rock"]
+  },
+  "Jumpluff": {
+    "Number": 189,
+    "Matchups": [1, 2, 0.5, 1, 0.25, 4, 0.5, 2, 0, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "rock"]
+  },
+  "Aipom": {
+    "Number": 190,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Sunkern": {
+    "Number": 191,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Sunflora": {
+    "Number": 192,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Yanma": {
+    "Number": 193,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Wooper": {
+    "Number": 194,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Quagsire": {
+    "Number": 195,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Espeon": {
+    "Number": 196,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Umbreon": {
+    "Number": 197,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fighting", "bug"]
+  },
+  "Murkrow": {
+    "Number": 198,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 0, 1, 2, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Slowking": {
+    "Number": 199,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 0.5],
+    "WeaknessesNames": ["electric", "grass", "bug", "ghost", "dark"]
+  },
+  "Misdreavus": {
+    "Number": 200,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ghost", "dark"]
+  },
+  "Unown": {
+    "Number": 201,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Wobbuffet": {
+    "Number": 202,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Girafarig": {
+    "Number": 203,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5, 2, 1, 0, 1, 2, 1],
+    "WeaknessesNames": ["bug", "dark"]
+  },
+  "Pineco": {
+    "Number": 204,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Forretress": {
+    "Number": 205,
+    "Matchups": [0.5, 4, 1, 1, 0.25, 0.5, 1, 0, 1, 1, 0.5, 0.5, 1, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire"]
+  },
+  "Dunsparce": {
+    "Number": 206,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Gligar": {
+    "Number": 207,
+    "Matchups": [1, 1, 2, 0, 1, 4, 0.5, 0.5, 0, 1, 1, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "ice"]
+  },
+  "Steelix": {
+    "Number": 208,
+    "Matchups": [0.5, 2, 2, 0, 1, 1, 2, 0, 2, 0.5, 0.5, 0.5, 0.25, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire", "water", "fighting", "ground"]
+  },
+  "Snubbull": {
+    "Number": 209,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Granbull": {
+    "Number": 210,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Qwilfish": {
+    "Number": 211,
+    "Matchups": [1, 0.5, 0.5, 2, 1, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "ground", "psychic"]
+  },
+  "Scizor": {
+    "Number": 212,
+    "Matchups": [0.5, 4, 1, 1, 0.25, 0.5, 1, 0, 1, 1, 0.5, 0.5, 1, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire"]
+  },
+  "Shuckle": {
+    "Number": 213,
+    "Matchups": [0.5, 1, 2, 1, 1, 1, 1, 0.5, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "rock", "steel"]
+  },
+  "Heracross": {
+    "Number": 214,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 4, 2, 0.5, 1, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic"]
+  },
+  "Sneasel": {
+    "Number": 215,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 4, 1, 1, 1, 0, 2, 2, 0.5, 1, 0.5, 2],
+    "WeaknessesNames": ["fire", "fighting", "bug", "rock", "steel"]
+  },
+  "Teddiursa": {
+    "Number": 216,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Ursaring": {
+    "Number": 217,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Slugma": {
+    "Number": 218,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Magcargo": {
+    "Number": 219,
+    "Matchups": [0.5, 0.25, 4, 1, 1, 0.5, 2, 0.5, 4, 0.5, 1, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "fighting", "ground", "rock"]
+  },
+  "Swinub": {
+    "Number": 220,
+    "Matchups": [1, 2, 2, 0, 2, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "water", "grass", "fighting", "steel"]
+  },
+  "Piloswine": {
+    "Number": 221,
+    "Matchups": [1, 2, 2, 0, 2, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "water", "grass", "fighting", "steel"]
+  },
+  "Corsola": {
+    "Number": 222,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Remoraid": {
+    "Number": 223,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Octillery": {
+    "Number": 224,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Delibird": {
+    "Number": 225,
+    "Matchups": [1, 2, 1, 2, 0.5, 1, 1, 1, 0, 1, 1, 0.5, 4, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "electric", "rock", "steel"]
+  },
+  "Mantine": {
+    "Number": 226,
+    "Matchups": [1, 0.5, 0.5, 4, 1, 1, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "rock"]
+  },
+  "Skarmory": {
+    "Number": 227,
+    "Matchups": [0.5, 2, 1, 2, 0.25, 1, 1, 0, 0, 0.5, 0.5, 0.25, 1, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire", "electric"]
+  },
+  "Houndour": {
+    "Number": 228,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 2, 1, 2, 1, 0, 1, 2, 0.5, 1, 0.5, 0.5],
+    "WeaknessesNames": ["water", "fighting", "ground", "rock"]
+  },
+  "Houndoom": {
+    "Number": 229,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 2, 1, 2, 1, 0, 1, 2, 0.5, 1, 0.5, 0.5],
+    "WeaknessesNames": ["water", "fighting", "ground", "rock"]
+  },
+  "Kingdra": {
+    "Number": 230,
+    "Matchups": [1, 0.25, 0.25, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 0.5],
+    "WeaknessesNames": ["dragon"]
+  },
+  "Phanpy": {
+    "Number": 231,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Donphan": {
+    "Number": 232,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Porygon2": {
+    "Number": 233,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Stantler": {
+    "Number": 234,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Smeargle": {
+    "Number": 235,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Tyrogue": {
+    "Number": 236,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Hitmontop": {
+    "Number": 237,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Smoochum": {
+    "Number": 238,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 2, 2, 2, 1, 2, 2],
+    "WeaknessesNames": ["fire", "bug", "rock", "ghost", "dark", "steel"]
+  },
+  "Elekid": {
+    "Number": 239,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Magby": {
+    "Number": 240,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Miltank": {
+    "Number": 241,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Blissey": {
+    "Number": 242,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Raikou": {
+    "Number": 243,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Entei": {
+    "Number": 244,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Suicune": {
+    "Number": 245,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Larvitar": {
+    "Number": 246,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Pupitar": {
+    "Number": 247,
+    "Matchups": [0.5, 0.5, 4, 0, 4, 2, 2, 0.25, 2, 0.5, 1, 1, 0.5, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "ice", "fighting", "ground", "steel"]
+  },
+  "Tyranitar": {
+    "Number": 248,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 4, 0.5, 2, 0.5, 0, 2, 1, 0.5, 1, 0.5, 2],
+    "WeaknessesNames": ["water", "grass", "fighting", "ground", "bug", "steel"]
+  },
+  "Lugia": {
+    "Number": 249,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 0.25, 1, 0, 1, 0.5, 1, 2, 2, 1, 2, 1],
+    "WeaknessesNames": ["electric", "ice", "rock", "ghost", "dark"]
+  },
+  "Ho-Oh": {
+    "Number": 250,
+    "Matchups": [1, 0.5, 2, 2, 0.25, 1, 0.5, 1, 0, 1, 1, 0.25, 4, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "electric", "rock"]
+  },
+  "Celebi": {
+    "Number": 251,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 0.5, 2, 0.5, 2, 0.5, 4, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug", "ghost", "dark"]
+  },
+  "Treecko": {
+    "Number": 252,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Grovyle": {
+    "Number": 253,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Sceptile": {
+    "Number": 254,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Torchic": {
+    "Number": 255,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Combusken": {
+    "Number": 256,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 2, 2, 0.25, 1, 1, 1, 0.5, 0.5],
+    "WeaknessesNames": ["water", "ground", "flying", "psychic"]
+  },
+  "Blaziken": {
+    "Number": 257,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 2, 2, 0.25, 1, 1, 1, 0.5, 0.5],
+    "WeaknessesNames": ["water", "ground", "flying", "psychic"]
+  },
+  "Mudkip": {
+    "Number": 258,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Marshtomp": {
+    "Number": 259,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Swampert": {
+    "Number": 260,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Poochyena": {
+    "Number": 261,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fighting", "bug"]
+  },
+  "Mightyena": {
+    "Number": 262,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fighting", "bug"]
+  },
+  "Zigzagoon": {
+    "Number": 263,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Linoone": {
+    "Number": 264,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Wurmple": {
+    "Number": 265,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Silcoon": {
+    "Number": 266,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Beautifly": {
+    "Number": 267,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Cascoon": {
+    "Number": 268,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Dustox": {
+    "Number": 269,
+    "Matchups": [1, 2, 1, 1, 0.25, 1, 0.25, 0.5, 1, 2, 2, 0.5, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "psychic", "rock"]
+  },
+  "Lotad": {
+    "Number": 270,
+    "Matchups": [1, 1, 0.25, 1, 1, 1, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["poison", "flying", "bug"]
+  },
+  "Lombre": {
+    "Number": 271,
+    "Matchups": [1, 1, 0.25, 1, 1, 1, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["poison", "flying", "bug"]
+  },
+  "Ludicolo": {
+    "Number": 272,
+    "Matchups": [1, 1, 0.25, 1, 1, 1, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["poison", "flying", "bug"]
+  },
+  "Seedot": {
+    "Number": 273,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Nuzleaf": {
+    "Number": 274,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 2, 2, 0.5, 2, 0, 4, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fire", "ice", "fighting", "poison", "flying", "bug"]
+  },
+  "Shiftry": {
+    "Number": 275,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 2, 2, 0.5, 2, 0, 4, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fire", "ice", "fighting", "poison", "flying", "bug"]
+  },
+  "Taillow": {
+    "Number": 276,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Swellow": {
+    "Number": 277,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Wingull": {
+    "Number": 278,
+    "Matchups": [1, 0.5, 0.5, 4, 1, 1, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "rock"]
+  },
+  "Pelipper": {
+    "Number": 279,
+    "Matchups": [1, 0.5, 0.5, 4, 1, 1, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "rock"]
+  },
+  "Ralts": {
+    "Number": 280,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Kirlia": {
+    "Number": 281,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Gardevoir": {
+    "Number": 282,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Surskit": {
+    "Number": 283,
+    "Matchups": [1, 1, 0.5, 2, 1, 0.5, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "flying", "rock"]
+  },
+  "Masquerain": {
+    "Number": 284,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Shroomish": {
+    "Number": 285,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Breloom": {
+    "Number": 286,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 4, 2, 1, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "psychic"]
+  },
+  "Slakoth": {
+    "Number": 287,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Vigoroth": {
+    "Number": 288,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Slaking": {
+    "Number": 289,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Nincada": {
+    "Number": 290,
+    "Matchups": [1, 2, 2, 0, 1, 2, 0.5, 0.5, 0.5, 2, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "water", "ice", "flying"]
+  },
+  "Ninjask": {
+    "Number": 291,
+    "Matchups": [1, 2, 1, 2, 0.25, 2, 0.25, 1, 0, 2, 1, 0.5, 4, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "electric", "ice", "flying", "rock"]
+  },
+  "Shedinja": {
+    "Number": 292,
+    "Matchups": [0, 2, 1, 1, 0.5, 1, 0, 0.5, 0.5, 2, 1, 0.5, 2, 2, 1, 2, 1],
+    "WeaknessesNames": ["fire", "flying", "rock", "ghost", "dark"]
+  },
+  "Whismur": {
+    "Number": 293,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Loudred": {
+    "Number": 294,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Exploud": {
+    "Number": 295,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Makuhita": {
+    "Number": 296,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Hariyama": {
+    "Number": 297,
+    "Matchups": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 0.5, 1, 1, 0.5, 1],
+    "WeaknessesNames": ["flying", "psychic"]
+  },
+  "Azurill": {
+    "Number": 298,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Nosepass": {
+    "Number": 299,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "fighting", "ground", "steel"]
+  },
+  "Skitty": {
+    "Number": 300,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Delcatty": {
+    "Number": 301,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Sableye": {
+    "Number": 302,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 0, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": []
+  },
+  "Mawile": {
+    "Number": 303,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 2, 0, 2, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire", "fighting", "ground"]
+  },
+  "Aron": {
+    "Number": 304,
+    "Matchups": [0.25, 1, 2, 1, 1, 0.5, 4, 0, 4, 0.25, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+    "WeaknessesNames": ["water", "fighting", "ground"]
+  },
+  "Lairon": {
+    "Number": 305,
+    "Matchups": [0.25, 1, 2, 1, 1, 0.5, 4, 0, 4, 0.25, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+    "WeaknessesNames": ["water", "fighting", "ground"]
+  },
+  "Aggron": {
+    "Number": 306,
+    "Matchups": [0.25, 1, 2, 1, 1, 0.5, 4, 0, 4, 0.25, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1],
+    "WeaknessesNames": ["water", "fighting", "ground"]
+  },
+  "Meditite": {
+    "Number": 307,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1],
+    "WeaknessesNames": ["flying", "ghost"]
+  },
+  "Medicham": {
+    "Number": 308,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1],
+    "WeaknessesNames": ["flying", "ghost"]
+  },
+  "Electrike": {
+    "Number": 309,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Manectric": {
+    "Number": 310,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Plusle": {
+    "Number": 311,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Minun": {
+    "Number": 312,
+    "Matchups": [1, 1, 1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["ground"]
+  },
+  "Volbeat": {
+    "Number": 313,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Illumise": {
+    "Number": 314,
+    "Matchups": [1, 2, 1, 1, 0.5, 1, 0.5, 1, 0.5, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "flying", "rock"]
+  },
+  "Roselia": {
+    "Number": 315,
+    "Matchups": [1, 2, 0.5, 0.5, 0.25, 2, 0.5, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "flying", "psychic"]
+  },
+  "Gulpin": {
+    "Number": 316,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Swalot": {
+    "Number": 317,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Carvanha": {
+    "Number": 318,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 0.5],
+    "WeaknessesNames": ["electric", "grass", "fighting", "bug"]
+  },
+  "Sharpedo": {
+    "Number": 319,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 0.5],
+    "WeaknessesNames": ["electric", "grass", "fighting", "bug"]
+  },
+  "Wailmer": {
+    "Number": 320,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Wailord": {
+    "Number": 321,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Numel": {
+    "Number": 322,
+    "Matchups": [1, 0.5, 4, 0, 1, 1, 1, 0.5, 2, 1, 1, 0.5, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground"]
+  },
+  "Camerupt": {
+    "Number": 323,
+    "Matchups": [1, 0.5, 4, 0, 1, 1, 1, 0.5, 2, 1, 1, 0.5, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground"]
+  },
+  "Torkoal": {
+    "Number": 324,
+    "Matchups": [1, 0.5, 2, 1, 0.5, 0.5, 1, 1, 2, 1, 1, 0.5, 2, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["water", "ground", "rock"]
+  },
+  "Spoink": {
+    "Number": 325,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Grumpig": {
+    "Number": 326,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Spinda": {
+    "Number": 327,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Trapinch": {
+    "Number": 328,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Vibrava": {
+    "Number": 329,
+    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Flygon": {
+    "Number": 330,
+    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Cacnea": {
+    "Number": 331,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 1, 2, 0.5, 2, 1, 2, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "bug"]
+  },
+  "Cacturne": {
+    "Number": 332,
+    "Matchups": [1, 2, 0.5, 0.5, 0.5, 2, 2, 2, 0.5, 2, 0, 4, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fire", "ice", "fighting", "poison", "flying", "bug"]
+  },
+  "Swablu": {
+    "Number": 333,
+    "Matchups": [1, 1, 1, 2, 0.5, 2, 1, 1, 0, 1, 1, 0.5, 2, 0, 1, 1, 1],
+    "WeaknessesNames": ["electric", "ice", "rock"]
+  },
+  "Altaria": {
+    "Number": 334,
+    "Matchups": [1, 0.5, 0.5, 1, 0.25, 4, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "rock", "dragon"]
+  },
+  "Zangoose": {
+    "Number": 335,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Seviper": {
+    "Number": 336,
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["ground", "psychic"]
+  },
+  "Lunatone": {
+    "Number": 337,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 2, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
+    "WeaknessesNames": ["water", "grass", "ground", "bug", "ghost", "dark", "steel"]
+  },
+  "Solrock": {
+    "Number": 338,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 2, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
+    "WeaknessesNames": ["water", "grass", "ground", "bug", "ghost", "dark", "steel"]
+  },
+  "Barboach": {
+    "Number": 339,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Whiscash": {
+    "Number": 340,
+    "Matchups": [1, 0.5, 1, 0, 4, 1, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["grass"]
+  },
+  "Corphish": {
+    "Number": 341,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Crawdaunt": {
+    "Number": 342,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 0.5],
+    "WeaknessesNames": ["electric", "grass", "fighting", "bug"]
+  },
+  "Baltoy": {
+    "Number": 343,
+    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 1, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
+    "WeaknessesNames": ["water", "grass", "ice", "bug", "ghost", "dark"]
+  },
+  "Claydol": {
+    "Number": 344,
+    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 1, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
+    "WeaknessesNames": ["water", "grass", "ice", "bug", "ghost", "dark"]
+  },
+  "Lileep": {
+    "Number": 345,
+    "Matchups": [0.5, 1, 1, 0.5, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["ice", "fighting", "bug", "steel"]
+  },
+  "Cradily": {
+    "Number": 346,
+    "Matchups": [0.5, 1, 1, 0.5, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["ice", "fighting", "bug", "steel"]
+  },
+  "Anorith": {
+    "Number": 347,
+    "Matchups": [0.5, 1, 2, 1, 1, 1, 1, 0.5, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "rock", "steel"]
+  },
+  "Armaldo": {
+    "Number": 348,
+    "Matchups": [0.5, 1, 2, 1, 1, 1, 1, 0.5, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "rock", "steel"]
+  },
+  "Feebas": {
+    "Number": 349,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Milotic": {
+    "Number": 350,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Castform": {
+    "Number": 351,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Kecleon": {
+    "Number": 352,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    "WeaknessesNames": ["fighting"]
+  },
+  "Shuppet": {
+    "Number": 353,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ghost", "dark"]
+  },
+  "Banette": {
+    "Number": 354,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ghost", "dark"]
+  },
+  "Duskull": {
+    "Number": 355,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ghost", "dark"]
+  },
+  "Dusclops": {
+    "Number": 356,
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["ghost", "dark"]
+  },
+  "Tropius": {
+    "Number": 357,
+    "Matchups": [1, 2, 0.5, 1, 0.25, 4, 0.5, 2, 0, 2, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["fire", "ice", "poison", "flying", "rock"]
+  },
+  "Chimecho": {
+    "Number": 358,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Absol": {
+    "Number": 359,
+    "Matchups": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0, 2, 1, 0.5, 1, 0.5, 1],
+    "WeaknessesNames": ["fighting", "bug"]
+  },
+  "Wynaut": {
+    "Number": 360,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Snorunt": {
+    "Number": 361,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "fighting", "rock", "steel"]
+  },
+  "Glalie": {
+    "Number": 362,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "fighting", "rock", "steel"]
+  },
+  "Spheal": {
+    "Number": 363,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Sealeo": {
+    "Number": 364,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Walrein": {
+    "Number": 365,
+    "Matchups": [1, 1, 0.5, 2, 2, 0.25, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "rock"]
+  },
+  "Clamperl": {
+    "Number": 366,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Huntail": {
+    "Number": 367,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Gorebyss": {
+    "Number": 368,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Relicanth": {
+    "Number": 369,
+    "Matchups": [0.5, 0.25, 1, 2, 4, 0.5, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 1],
+    "WeaknessesNames": ["electric", "grass", "fighting", "ground"]
+  },
+  "Luvdisc": {
+    "Number": 370,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Bagon": {
+    "Number": 371,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Shelgon": {
+    "Number": 372,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "dragon"]
+  },
+  "Salamence": {
+    "Number": 373,
+    "Matchups": [1, 0.5, 0.5, 1, 0.25, 4, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "rock", "dragon"]
+  },
+  "Beldum": {
+    "Number": 374,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 1, 0, 2, 0.5, 0.25, 1, 0.5, 1, 0.5, 1, 0.5],
+    "WeaknessesNames": ["fire", "ground"]
+  },
+  "Metang": {
+    "Number": 375,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 1, 0, 2, 0.5, 0.25, 1, 0.5, 1, 0.5, 1, 0.5],
+    "WeaknessesNames": ["fire", "ground"]
+  },
+  "Metagross": {
+    "Number": 376,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 1, 0, 2, 0.5, 0.25, 1, 0.5, 1, 0.5, 1, 0.5],
+    "WeaknessesNames": ["fire", "ground"]
+  },
+  "Regirock": {
+    "Number": 377,
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 2, 0.5, 2, 0.5, 1, 1, 1, 1, 1, 1, 2],
+    "WeaknessesNames": ["water", "grass", "fighting", "ground", "steel"]
+  },
+  "Regice": {
+    "Number": 378,
+    "Matchups": [1, 2, 1, 1, 1, 0.5, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2],
+    "WeaknessesNames": ["fire", "fighting", "rock", "steel"]
+  },
+  "Registeel": {
+    "Number": 379,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 2, 0, 2, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5],
+    "WeaknessesNames": ["fire", "fighting", "ground"]
+  },
+  "Latias": {
+    "Number": 380,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 0.5, 1, 0, 1, 0.5, 2, 1, 2, 2, 2, 1],
+    "WeaknessesNames": ["ice", "bug", "ghost", "dragon", "dark"]
+  },
+  "Latios": {
+    "Number": 381,
+    "Matchups": [1, 0.5, 0.5, 0.5, 0.5, 2, 0.5, 1, 0, 1, 0.5, 2, 1, 2, 2, 2, 1],
+    "WeaknessesNames": ["ice", "bug", "ghost", "dragon", "dark"]
+  },
+  "Kyogre": {
+    "Number": 382,
+    "Matchups": [1, 0.5, 0.5, 2, 2, 0.5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5],
+    "WeaknessesNames": ["electric", "grass"]
+  },
+  "Groudon": {
+    "Number": 383,
+    "Matchups": [1, 1, 2, 0, 2, 2, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 1, 1, 1],
+    "WeaknessesNames": ["water", "grass", "ice"]
+  },
+  "Rayquaza": {
+    "Number": 384,
+    "Matchups": [1, 0.5, 0.5, 1, 0.25, 4, 0.5, 1, 0, 1, 1, 0.5, 2, 1, 2, 1, 1],
+    "WeaknessesNames": ["ice", "rock", "dragon"]
+  },
+  "Jirachi": {
+    "Number": 385,
+    "Matchups": [0.5, 2, 1, 1, 0.5, 0.5, 1, 0, 2, 0.5, 0.25, 1, 0.5, 1, 0.5, 1, 0.5],
+    "WeaknessesNames": ["fire", "ground"]
+  },
+  "Deoxys": {
+    "Number": 386,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Deoxys-Attack": {
+    "Number": 386.1,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Deoxys-Defense": {
+    "Number": 386.2,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  },
+  "Deoxys-Speed": {
+    "Number": 386.3,
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "WeaknessesNames": ["bug", "ghost", "dark"]
+  }
+}
