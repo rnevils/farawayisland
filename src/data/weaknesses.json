@@ -541,12 +541,12 @@
   },
   "Koffing": {
     "Number": 109,
-    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 0, 1, 2, 0.5, 1, 1, 1, 1, 1],
     "WeaknessesNames": ["ground", "psychic"]
   },
   "Weezing": {
     "Number": 110,
-    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 2, 1, 2, 0.5, 1, 1, 1, 1, 1],
+    "Matchups": [1, 1, 1, 1, 0.5, 1, 0.5, 0.5, 0, 1, 2, 0.5, 1, 1, 1, 1, 1],
     "WeaknessesNames": ["ground", "psychic"]
   },
   "Rhyhorn": {
@@ -996,12 +996,12 @@
   },
   "Misdreavus": {
     "Number": 200,
-    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 0, 1, 1, 0.5, 1, 2, 1, 2, 1],
     "WeaknessesNames": ["ghost", "dark"]
   },
   "Unown": {
     "Number": 201,
-    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 0, 1, 0.5, 2, 1, 2, 1, 2, 1],
     "WeaknessesNames": ["bug", "ghost", "dark"]
   },
   "Wobbuffet": {
@@ -1641,12 +1641,12 @@
   },
   "Vibrava": {
     "Number": 329,
-    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 2, 1, 1],
+    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 0, 1, 1, 1, 0.5, 1, 2, 1, 1],
     "WeaknessesNames": ["ice", "dragon"]
   },
   "Flygon": {
     "Number": 330,
-    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 1, 1, 1, 1, 0.5, 1, 2, 1, 1],
+    "Matchups": [1, 0.5, 1, 0, 1, 4, 1, 0.5, 0, 1, 1, 1, 0.5, 1, 2, 1, 1],
     "WeaknessesNames": ["ice", "dragon"]
   },
   "Cacnea": {
@@ -1681,12 +1681,12 @@
   },
   "Lunatone": {
     "Number": 337,
-    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 2, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 0, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
     "WeaknessesNames": ["water", "grass", "ground", "bug", "ghost", "dark", "steel"]
   },
   "Solrock": {
     "Number": 338,
-    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 2, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
+    "Matchups": [0.5, 0.5, 2, 1, 2, 1, 1, 0.5, 0, 0.5, 0.5, 2, 1, 2, 1, 2, 2],
     "WeaknessesNames": ["water", "grass", "ground", "bug", "ghost", "dark", "steel"]
   },
   "Barboach": {
@@ -1711,12 +1711,12 @@
   },
   "Baltoy": {
     "Number": 343,
-    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 1, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
+    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 0, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
     "WeaknessesNames": ["water", "grass", "ice", "bug", "ghost", "dark"]
   },
   "Claydol": {
     "Number": 344,
-    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 1, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
+    "Matchups": [1, 1, 2, 0, 2, 2, 0.5, 0.5, 0, 1, 0.5, 2, 0.5, 2, 1, 2, 1],
     "WeaknessesNames": ["water", "grass", "ice", "bug", "ghost", "dark"]
   },
   "Lileep": {
@@ -1771,7 +1771,7 @@
   },
   "Duskull": {
     "Number": 355,
-    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 1, 1, 1, 0.5, 1, 2, 1, 2, 1],
+    "Matchups": [0, 1, 1, 1, 1, 1, 0, 0.5, 0, 1, 1, 0.5, 1, 2, 1, 2, 1],
     "WeaknessesNames": ["ghost", "dark"]
   },
   "Dusclops": {
@@ -1786,7 +1786,7 @@
   },
   "Chimecho": {
     "Number": 358,
-    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 1, 1, 0.5, 2, 1, 2, 1, 2, 1],
+    "Matchups": [1, 1, 1, 1, 1, 1, 0.5, 1, 0, 1, 0.5, 2, 1, 2, 1, 2, 1],
     "WeaknessesNames": ["bug", "ghost", "dark"]
   },
   "Absol": {
