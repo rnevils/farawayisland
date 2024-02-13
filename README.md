@@ -13,7 +13,6 @@ To find your team in export format:
 - Click "Import/Export" at the top of the page
 - Copy the resulting text
 
-
 ## Developing
 
 Install dependencies

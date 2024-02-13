@@ -16,7 +16,7 @@
     </AppBar>
   </svelte:fragment>
 
-  <div class="container p-10 mx-auto h-full">
+  <div class="relative max-w-screen-2xl p-10 mx-auto h-full flex flex-col gap-6">
     <slot />
   </div>
 </AppShell>
