@@ -18,8 +18,6 @@
   let enemyPokemon: MyPokemon; //TODO feel like this should havea default value or something
   let damageCalcResults: DamageCalcResults[] = [];
   function newParseTeam() {
-    // handle empty body stuff
-
     // just don't deal with any super long input
     if (userInput.length > 1500) {
       badInputMessage = 'input too long';
@@ -41,9 +39,7 @@
   }
   function reset() {
     userHasSubmitTeam = false;
-    // userInput = '';
     enemyPokemonUserInput = '';
-
     thePokemonTeam = [];
     theteamDefensiveCoverageData = [];
     damageCalcResults = [];
@@ -53,6 +49,11 @@
   function newCalcDamages() {
     // need unput validation here... maybe create func for it?
     // should be pretty similar as above
+
+    // don't deal with any super long input
+    if (enemyPokemonUserInput.length > 1500) {
+      return;
+    }
     const enemyPokemonArray: MyPokemon[] = parseInput(enemyPokemonUserInput);
     enemyPokemon = enemyPokemonArray[0]; // could probably be clearner with this
 
