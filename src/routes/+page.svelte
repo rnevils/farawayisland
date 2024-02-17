@@ -97,9 +97,9 @@
       <p class="input-error">{badInputMessage}</p>
     </div>
   </div>
-  <button on:click={reset} class="btn variant-filled self-end">Reset </button>
+  <button on:click={reset} class="btn mx-auto variant-filled">Reset </button>
 {:else}
-  <div id="top-section" class="flex flex-col gap-8 lg:flex-row">
+  <div id="top-section-container" class="flex flex-col gap-8 lg:flex-row">
     <div id="defensive-coverage-table-container" class="card flex-auto">
       <div class="p-6">
         <h1 class="h2">Defensive Coverage</h1>
@@ -113,7 +113,7 @@
       <div class="p-6">
         <h1 class="h2 pb-2">Move Coverage</h1>
       </div>
-      <div class="px-6">
+      <div class="px-6 text-center flex justify-center">
         <div class="max-w-md">
           Pokemon you don't have a super effective move against in Smogon's top <strong
             >{topXSmogon}</strong
@@ -121,8 +121,8 @@
         </div>
       </div>
 
-      <div class="flex justify-center mx-auto max-w-md">
-        <input type="range" bind:value={topXSmogon} min="1" max="100" />
+      <div class="px-6 flex justify-center">
+        <input type="range" class="max-w-lg" bind:value={topXSmogon} min="1" max="100" />
       </div>
       <div class="container mx-auto flex justify-center">
         <div>
@@ -146,34 +146,44 @@
     <div class="p-6">
       <h2 class="h2">Team Damage Calc</h2>
     </div>
-    <div id="attack-a-pokemon-container" class="flex justify-between p-7">
-      <!-- change this id -->
-      <div id="attack-a-pokemon-damage-calc-stuff-results">
-        {#if damageCalcResults.length == 0}
-          {#each thePokemonTeam as pokemon}
-            <div class="flex">
-              <img class="pkmn-img" src="/pokemon/artwork/{pokemon.id}.webp" alt="art of pokemon" />
-              <div class="flex flex-col justify-center">
-                {#each pokemon.moves as move}
-                  <div class="indent-7">- {move}</div>
-                {/each}
+    <!-- change this id -->
+    <div class="flex flex-col gap-8 lg:flex-row">
+      <div id="attack-a-pokemon-damage-calc-stuff-results" class="flex-auto">
+        <div id="team-container" class="p-6">
+          {#if damageCalcResults.length == 0}
+            {#each thePokemonTeam as pokemon}
+              <div class="flex">
+                <img
+                  class="pkmn-img"
+                  src="/pokemon/artwork/{pokemon.id}.webp"
+                  alt="art of pokemon"
+                />
+                <div class="flex flex-col justify-center">
+                  {#each pokemon.moves as move}
+                    <div class="indent-7">- {move}</div>
+                  {/each}
+                </div>
               </div>
-            </div>
-          {/each}
-        {:else}
-          {#each damageCalcResults as result}
-            <div class="flex">
-              <img class="pkmn-img" src="/pokemon/artwork/{result.id}.webp" alt="art of pokemon" />
-              <div class="flex flex-col justify-center">
-                {#each result.damage as move}
-                  <div class="indent-7">- {move.name}: {move.percent}</div>
-                {/each}
+            {/each}
+          {:else}
+            {#each damageCalcResults as result}
+              <div class="flex">
+                <img
+                  class="pkmn-img"
+                  src="/pokemon/artwork/{result.id}.webp"
+                  alt="art of pokemon"
+                />
+                <div class="flex flex-col justify-center">
+                  {#each result.damage as move}
+                    <div class="indent-7">- {move.name}: {move.percent}</div>
+                  {/each}
+                </div>
               </div>
-            </div>
-          {/each}
-        {/if}
+            {/each}
+          {/if}
+        </div>
       </div>
-      <div id="attacking-pokemon-input-container">
+      <div id="attacking-pokemon-input-container" class="p-6">
         {#if damageCalcResults.length == 0}
           <h3 class="h3">Pokemon you want to attack:</h3>
           <form class="p-4 flex flex-col gap-3 h-full max-w-xs">
