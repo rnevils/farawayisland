@@ -15,7 +15,7 @@
   let badInput = false;
   let badInputMessage = '';
   let enemyPokemonUserInput = '';
-  let enemyPokemon: MyPokemon; //TODO feel like this should havea default value or something
+  let enemyPokemon: MyPokemon; //TODO this should havea default value
   let damageCalcResults: DamageCalcResults[] = [];
   function newParseTeam() {
     // just don't deal with any super long input
@@ -47,8 +47,7 @@
   }
 
   function newCalcDamages() {
-    // need unput validation here... maybe create func for it?
-    // should be pretty similar as above
+    // TODO input validation here
 
     // don't deal with any super long input
     if (enemyPokemonUserInput.length > 1500) {
@@ -231,7 +230,6 @@
 {/if}
 
 <style>
-  /* TODO this is also used in table.. make it universal? or nah acuse gotta be dif sizes here */
   .pkmn-img {
     height: 130px;
     width: 130px;
