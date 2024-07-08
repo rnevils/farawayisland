@@ -26,3 +26,7 @@ Start a development server:
 ```bash
 npm run dev
 ```
+
+## Screenshots
+![image info](./img/preview1.png)
+![image info](./img/preview2.png)
