@@ -56,7 +56,7 @@ export function calculateDefensiveCoverageData(pokemons: string[]) {
   return finalData;
 }
 
-export function getPokemonNoWeaknesses(pokemonTeam: Pokemon[]): string[] {
+export function getPokemonNoWeaknesses(pokemonTeam: MyPokemon[]): string[] {
   // Extract moves from each object
   const movesArray = pokemonTeam
     .map((pokemon) => pokemon.moves.map((move) => move.toLowerCase().replace(/\s/g, '-')))

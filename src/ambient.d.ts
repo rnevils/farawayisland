@@ -1,15 +1,15 @@
 type Gender = 'Unknown' | 'Random' | 'Male' | 'Female';
 
 type PkmnStat = {
-  HP: number;
-  Atk: number;
-  Def: number;
-  SpA: number;
-  SpD: number;
-  Spe: number;
+  hp: number;
+  atk: number;
+  def: number;
+  spa: number;
+  spd: number;
+  spe: number;
 };
 
-type Pokemon = {
+type MyPokemon = {
   name: string;
   id: number;
   item: string;
@@ -20,7 +20,9 @@ type Pokemon = {
   happiness: number;
   nature: string | null;
   evs: PkmnStat;
+  evsString: string;
   ivs: PkmnStat;
+  ivsString: string;
   moves: string[];
 };
 
@@ -29,6 +31,16 @@ type DefensiveCoverageData = {
   values: number[];
   totalWeak: number;
   totalResist: number;
+};
+
+type DamageCalcResult = {
+  name: string;
+  percent: string;
+};
+
+type DamageCalcResults = {
+  id: number;
+  damage: DamageCalcResult[];
 };
 
 /*

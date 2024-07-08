@@ -46,34 +46,64 @@ const POKEMON_WITH_UNKNOWN_GENDER = [
 ] as const;
 
 const DEFAULT_EVS: PkmnStat = {
-  HP: 0,
-  Atk: 0,
-  Def: 0,
-  SpA: 0,
-  SpD: 0,
-  Spe: 0,
+  hp: 0,
+  atk: 0,
+  def: 0,
+  spa: 0,
+  spd: 0,
+  spe: 0,
 };
 
 const DEFAULT_IVS: PkmnStat = {
-  HP: 31,
-  Atk: 31,
-  Def: 31,
-  SpA: 31,
-  SpD: 31,
-  Spe: 31,
+  hp: 31,
+  atk: 31,
+  def: 31,
+  spa: 31,
+  spd: 31,
+  spe: 31,
 };
+
+function formatPkmnStat(stats: PkmnStat): string {
+  let formattedString = '';
+
+  if (stats.hp > 0) {
+    formattedString += `${stats.hp} hp / `;
+  }
+  if (stats.atk > 0) {
+    formattedString += `${stats.atk} atk / `;
+  }
+  if (stats.def > 0) {
+    formattedString += `${stats.def} def / `;
+  }
+  if (stats.spa > 0) {
+    formattedString += `${stats.spa} spa / `;
+  }
+  if (stats.spd > 0) {
+    formattedString += `${stats.spd} spd / `;
+  }
+  if (stats.spe > 0) {
+    formattedString += `${stats.spe} spe`;
+  }
+
+  // Remove trailing slash and space
+  if (formattedString.endsWith('/ ')) {
+    formattedString = formattedString.slice(0, -2);
+  }
+
+  return formattedString;
+}
 
 function processValues(valuesString: string, iv = false) {
   const values: PkmnStat = {
-    HP: iv ? 31 : 0,
-    Atk: iv ? 31 : 0,
-    Def: iv ? 31 : 0,
-    SpA: iv ? 31 : 0,
-    SpD: iv ? 31 : 0,
-    Spe: iv ? 31 : 0,
+    hp: iv ? 31 : 0,
+    atk: iv ? 31 : 0,
+    def: iv ? 31 : 0,
+    spa: iv ? 31 : 0,
+    spd: iv ? 31 : 0,
+    spe: iv ? 31 : 0,
   };
 
-  const valueMatches = valuesString.match(/(\d+) (\w+)/g);
+  const valueMatches = valuesString.toLowerCase().match(/(\d+) (\w+)/g);
 
   if (valueMatches) {
     valueMatches.forEach((match) => {
@@ -140,8 +170,8 @@ function processFirstLine(firstLine: string) {
   return { name, gender, item };
 }
 
-function parseSection(section: string): Pokemon {
-  const firstLine = section.split('\r\n')[0].trim();
+function parseSection(section: string): MyPokemon {
+  const firstLine = section.split('\n')[0].trim();
   const { name, gender, item } = processFirstLine(firstLine);
 
   const ability = extractField('Ability', section);
@@ -182,7 +212,10 @@ function parseSection(section: string): Pokemon {
 
   const pkmnNumber: number = pkmnDataJson[name as keyof typeof pkmnDataJson].Number;
 
-  const pokemon: Pokemon = {
+  const formattedEvs = formatPkmnStat(evs);
+  const formattedIvs = formatPkmnStat(ivs);
+
+  const pokemon: MyPokemon = {
     name: name,
     id: pkmnNumber,
     item: item,
@@ -193,7 +226,9 @@ function parseSection(section: string): Pokemon {
     happiness: happiness,
     nature: nature,
     evs: evs,
+    evsString: formattedEvs,
     ivs: ivs,
+    ivsString: formattedIvs,
     moves: moves,
   };
 
@@ -202,7 +237,7 @@ function parseSection(section: string): Pokemon {
 
 export function parseInput(body: string) {
   // split the string into seperate sections for each pokemon
-  const pokemonSections = body.trim().split('\r\n\r\n');
+  const pokemonSections = body.trim().split('\n\n');
   const pokemons = pokemonSections.map((section) => parseSection(section));
 
   return pokemons;

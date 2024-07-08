@@ -1456,7 +1456,7 @@
   },
   "Shedinja": {
     "Number": 292,
-    "Matchups": [0, 2, 1, 1, 0.5, 1, 0, 0.5, 0.5, 2, 1, 0.5, 2, 2, 1, 2, 1],
+    "Matchups": [0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 2, 0, 2, 0],
     "WeaknessesNames": ["fire", "flying", "rock", "ghost", "dark"]
   },
   "Whismur": {

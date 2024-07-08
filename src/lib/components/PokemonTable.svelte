@@ -1,9 +1,9 @@
 <script lang="ts">
-  export let pokemonTeam: Pokemon[];
+  export let pokemonTeam: MyPokemon[];
   export let teamDefensiveCoverageData: DefensiveCoverageData[];
 </script>
 
-<div class="table-container text-center">
+<div class="table-container text-center p-6">
   <table class="table my-table-compact table-hover">
     <thead class="text-xs">
       <tr>
@@ -77,7 +77,7 @@
     height: 26px;
   }
 
-  @media (max-width: 640px) {
+  /* @media (max-width: 640px) {
     .my-table-compact {
       min-width: 560px;
       margin-left: auto;
@@ -97,7 +97,7 @@
       margin-left: auto;
       margin-right: auto;
     }
-  }
+  } */
 
   .type-Bug {
     background-color: #a6b91a;
