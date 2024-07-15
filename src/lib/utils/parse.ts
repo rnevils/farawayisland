@@ -157,7 +157,7 @@ function processFirstLine(firstLine: string) {
     }
   } else {
     const namesArray = firstLineReversedSplit[0].split(' ');
-    name = namesArray[namesArray.length - 1].replace(/^[() ]+|[() ]+$/g, '');
+    name = namesArray[0].replace(/^[() ]+|[() ]+$/g, '');
   }
 
   if (

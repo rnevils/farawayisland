@@ -18,6 +18,8 @@
   let enemyPokemon: MyPokemon; //TODO this should havea default value
   let damageCalcResults: DamageCalcResults[] = [];
   function newParseTeam() {
+    userHasSubmitTeam = true;
+    
     // just don't deal with any super long input
     if (userInput.length > 1500) {
       badInputMessage = 'input too long';
@@ -26,7 +28,6 @@
     }
 
     try {
-      userHasSubmitTeam = true;
       thePokemonTeam = parseInput(userInput);
       const pokemonNames: string[] = thePokemonTeam.map((pokemon) => pokemon.name);
       theteamDefensiveCoverageData = calculateDefensiveCoverageData(pokemonNames);
